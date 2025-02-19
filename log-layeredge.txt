@@ -131,3 +131,6 @@
 [15:28:00 | 19-02-2025] Last Claim Point: 18/02/2025 08:27:25
 [15:28:01 | 19-02-2025] ✅ Points claimed for 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131
 [15:28:02 | 19-02-2025] 🚨 Failed to start node for 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131: [object Object]
+[23:26:34 | 19-02-2025] Wallet Address: 0x7294f4924Ea3ad681Dc042068fff7823fE4E1131
+[23:26:34 | 19-02-2025] Node Points: 74787
+[23:26:34 | 19-02-2025] Last Claim Point: 19/02/2025 08:28:01
